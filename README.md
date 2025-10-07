@@ -10,7 +10,6 @@ Su propósito es centralizar y simplificar el acceso a herramientas clave de adm
 ### 🔢 Acceso directo a tablas internas
 Permite abrir tablas internas de Business Central directamente desde el ID, facilitando la inspección de datos y estructuras del sistema.
 
-📸 **Vista de la herramienta:**
 ![Acceso a tablas](images/tablas.png)
 
 ---
@@ -18,7 +17,6 @@ Permite abrir tablas internas de Business Central directamente desde el ID, faci
 ### 👥 Sesiones activas
 Visualiza las sesiones activas en el entorno, ideal para identificar usuarios conectados en tiempo real y analizar posibles bloqueos o cuellos de botella.
 
-📸 **Vista de la herramienta:**
 ![Sesiones activas](images/sesiones.png)
 
 ---
@@ -26,7 +24,6 @@ Visualiza las sesiones activas en el entorno, ideal para identificar usuarios co
 ### 🧩 Extensiones no estándar
 Muestra un listado de las extensiones personalizadas instaladas, ayudando a controlar desarrollos propios o externos a Microsoft.
 
-📸 **Vista de la herramienta:**
 ![Extensiones personalizadas](images/extensiones.png)
 
 ---
@@ -34,7 +31,6 @@ Muestra un listado de las extensiones personalizadas instaladas, ayudando a cont
 ### 🔍 Inspector de páginas
 Proporciona información técnica de la página actual: ID, tabla asociada, tipo y más. Muy útil para desarrolladores que trabajan en personalizaciones.
 
-📸 **Vista de la herramienta:**
 ![Inspector de páginas](images/inspector.png)
 
 ---
@@ -43,7 +39,6 @@ Proporciona información técnica de la página actual: ID, tabla asociada, tipo
 Permite guardar y acceder rápidamente a las páginas más utilizadas sin tener que buscarlas cada vez.  
 Ideal para mejorar la productividad en tareas repetitivas.
 
-📸 **Vista de la herramienta:**
 ![Favoritos](images/favoritos.png)
 
 ---
@@ -51,7 +46,6 @@ Ideal para mejorar la productividad en tareas repetitivas.
 ### 🎨 Colores por entorno
 Personaliza el color de la barra superior según el entorno (producción, pruebas, desarrollo...), evitando confusiones y errores al trabajar con múltiples entornos.
 
-📸 **Vista de la herramienta:**
 ![Colores por entorno](images/colores.png)
 
 ---
