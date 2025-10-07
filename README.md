@@ -1,7 +1,5 @@
 # ⚙️ BC Tools — Extensión para Microsoft Dynamics 365 Business Central (SaaS)
 
-![BC Tools Logo](images/logo.png)
-
 **BC Tools** es una extensión diseñada específicamente para entornos **SaaS de Microsoft Dynamics 365 Business Central**, orientada a facilitar el trabajo diario de **administradores, desarrolladores y usuarios avanzados**.  
 Su propósito es centralizar y simplificar el acceso a herramientas clave de administración y desarrollo dentro de un único panel accesible desde el navegador.
 
