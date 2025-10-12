@@ -6,7 +6,7 @@ Su propósito es centralizar y simplificar el acceso a herramientas clave de adm
 ---
 
 ## 🚀 Características principales
--
+
 ### 🔢 Acceso directo a tablas internas
 Permite abrir tablas internas de Business Central directamente desde el ID, facilitando la inspección de datos y estructuras del sistema.
 
