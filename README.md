@@ -58,7 +58,7 @@ Puedes instalar **BC Tools** directamente desde el marketplace oficial de Micros
 
 También puedes instalar **BC Tools** desde el marketplace oficial de Chrome:
 
-🔗 [BC Tools — Chrome Web Store](https://chromewebstore.google.com/detail/bc-tools/dbailnhmipppnaohndolcponcdohakjf))
+🔗 [BC Tools — Chrome Web Store](https://chromewebstore.google.com/detail/bc-tools/dbailnhmipppnaohndolcponcdohakjf)
 
 Una vez instalada, el icono aparecerá en la barra de extensiones del navegador.  
 Al abrirlo, tendrás acceso inmediato a todas las herramientas descritas.
