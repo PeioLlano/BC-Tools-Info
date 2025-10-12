@@ -6,7 +6,7 @@ Su propósito es centralizar y simplificar el acceso a herramientas clave de adm
 ---
 
 ## 🚀 Características principales
-
+**ed******
 ### 🔢 Acceso directo a tablas internas
 Permite abrir tablas internas de Business Central directamente desde el ID, facilitando la inspección de datos y estructuras del sistema.
 
@@ -56,6 +56,10 @@ Puedes instalar **BC Tools** directamente desde el marketplace oficial de Micros
 
 🔗 [BC Tools — Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/bc-tools/foenkdmnckjgmilbjjngmokjemmhgbge)
 
+También puedes instalar **BC Tools** desde el marketplace oficial de Chrome:
+
+🔗 [BC Tools — Chrome Web Store](https://chromewebstore.google.com/detail/bc-tools/dbailnhmipppnaohndolcponcdohakjf))
+
 Una vez instalada, el icono aparecerá en la barra de extensiones del navegador.  
 Al abrirlo, tendrás acceso inmediato a todas las herramientas descritas.
 
@@ -64,7 +68,7 @@ Al abrirlo, tendrás acceso inmediato a todas las herramientas descritas.
 ## 💡 Compatibilidad
 
 - **Entornos:** Microsoft Dynamics 365 Business Central (SaaS)
-- **Navegador:** Microsoft Edge (próximamente disponible también para Google Chrome)
+- **Navegador:** Microsoft Edge y Google Chrome
 - **Configuración:** No requiere pasos adicionales.  
   La extensión detecta automáticamente el entorno de BC donde se utiliza.
 
